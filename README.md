@@ -17,3 +17,6 @@ This project is a simple yet powerful handwriting recognition application built 
 
 This project demonstrates how machine learning can be applied to real-time image recognition tasks, providing an interactive way for users to experience the capabilities of neural networks.
 
+Here is the output of my project !!!!!
+
+https://github.com/TrinetraBanerjee/Handwritten-Digit-Recognition/issues/1#issue-2315950168
